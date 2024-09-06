@@ -12,3 +12,5 @@ Components Used:
 
 4.GP2Y0A21YK0F Infrared Distance Sensor: This infrared sensor detects objects or vehicles approaching the barrier. 
 It sends the signal to the microcontroller, which triggers the servo motor to open or close the barrier.
+
+You can watch the demonstration video [here](https://github.com/LitaAna/Automatic-smart-car-barrier-system-using-CodeVisionAVR/blob/main/video.mp4).
